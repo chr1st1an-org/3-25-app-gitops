@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: 3-25-app-repository
+spec:
+  url: https://github.com/chr1st1an-org/3-25-app
